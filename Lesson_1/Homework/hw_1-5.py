@@ -18,4 +18,4 @@ xb = int(input('Bx = '))
 yb = int(input('By = '))
 
 dist = math.sqrt((xb - xa)**2 + (yb - ya)**2)
-print(round(dist, 2 ))
+print(round(dist, 3 ))
